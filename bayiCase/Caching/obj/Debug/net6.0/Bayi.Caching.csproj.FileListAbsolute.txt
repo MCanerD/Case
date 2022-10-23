@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\bayiCase\Caching\bin\Debug\net6.0\Bayi.Caching.deps.json
+C:\Users\hp\source\repos\bayiCase\Caching\bin\Debug\net6.0\Bayi.Caching.dll
+C:\Users\hp\source\repos\bayiCase\Caching\bin\Debug\net6.0\Bayi.Caching.pdb
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.AssemblyInfo.cs
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.dll
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\refint\Bayi.Caching.dll
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\Bayi.Caching.pdb
+C:\Users\hp\source\repos\bayiCase\Caching\obj\Debug\net6.0\ref\Bayi.Caching.dll

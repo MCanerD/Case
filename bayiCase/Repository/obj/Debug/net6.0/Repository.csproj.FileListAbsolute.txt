@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Core.dll
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Core.pdb
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\ref\Repository.dll

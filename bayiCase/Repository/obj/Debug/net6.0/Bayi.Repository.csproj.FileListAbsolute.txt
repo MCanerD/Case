@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Bayi.Repository.deps.json
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Bayi.Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Bayi.Repository.pdb
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Bayi.Core.dll
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Bayi.Core.pdb
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.AssemblyInfo.cs
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.csproj.CopyComplete
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\refint\Bayi.Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.pdb
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\ref\Bayi.Repository.dll
+C:\Users\hp\source\repos\bayiCase\Repository\bin\Debug\net6.0\Bayi.Repository.runtimeconfig.json
+C:\Users\hp\source\repos\bayiCase\Repository\obj\Debug\net6.0\Bayi.Repository.genruntimeconfig.cache
